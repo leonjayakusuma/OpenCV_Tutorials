@@ -20,3 +20,12 @@ env/
 # *.csv
 # *.parquet
 # *.json
+
+# OpenCV Outputs
+hello.png
+output/
+# If you want to ignore all images by default:
+# *.png
+# *.jpg
+# *.jpeg
+# *.bmp
