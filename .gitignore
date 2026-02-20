@@ -25,7 +25,7 @@ env/
 hello.png
 output/
 # If you want to ignore all images by default:
-# *.png
-# *.jpg
+*.png
+*.jpg
 # *.jpeg
 # *.bmp
