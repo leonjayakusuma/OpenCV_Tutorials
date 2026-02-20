@@ -1,0 +1,22 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python essentials
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Large data files (optional, but recommended)
+# *.csv
+# *.parquet
+# *.json
